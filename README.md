@@ -7,3 +7,4 @@ GUI modeling: Pencil (extension: .epgz)
 Target environment: z/OS PDS/Library file
 ================================================
 Access per ZOWE CLI must be also enabled 
+Project closed - too many alternatives on the market, and I have in the meanwhile no amainframe access.
